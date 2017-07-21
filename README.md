@@ -13,6 +13,10 @@ Have generated Docker Image in code repository.
 		* docker pull abdulnizam/tradetracker:zendframework for zend
 		* docker pull abdulnizam/tradetracker:symfony for symfony
 
+		After pulldown in local : 
+
+			docker run -p 8002:80 tradetracker:symfony (or) docker run -p 8002:80 tradetracker:zendframework
+
 	a) <a href="https://github.com/Freniz/TradeTrackerProjects/blob/integration/DockerFile/symfony/Dockerfile">Dockerfile-Symfony</a>
 
 	b) <a href="https://github.com/Freniz/TradeTrackerProjects/blob/integration/DockerFile/zend/Dockerfile">Dockerfile-Zend</a>
@@ -34,12 +38,13 @@ Following things have been followed to develop this project.
 3) Used Boostrap for responsive / adaptive layout
 4) Used Symfony and ZendFramework for the back-end
 5) No database have been used
-6) Have limited to 32MB of memory. manually used in code ini_set("memory_limit","256M"); 
+6) Have limited to 32MB of memory. manually used in code ini_set("memory_limit","32M");
+7) Displaying processed data in real-time 
 
-7) Have followed coding standards (PSR-2)
-8) Have used PHPunit Test almost for all logic
+8) Have followed coding standards (PSR-2)
+9) Have used PHPunit Test almost for all logic
 
-9) Have used less and sass CSS pre-processor.
+10) Have used less and sass CSS pre-processor.
 
 	* Less in Zend framwork 
 	* Sass in Symfony
