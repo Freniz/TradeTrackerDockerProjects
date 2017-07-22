@@ -10,8 +10,8 @@ Have generated Docker Image in code repository.
 
 	Tags - <a href="https://hub.docker.com/r/abdulnizam/tradetracker/tags/" target="_blank">Abdulnizam-Docker-hub</a>
 
-		* docker pull abdulnizam/tradetracker:zendframework for zend
 		* docker pull abdulnizam/tradetracker:symfony for symfony
+		* docker pull abdulnizam/tradetracker:zendframework for zend
 
 		After pulldown in local : 
 
