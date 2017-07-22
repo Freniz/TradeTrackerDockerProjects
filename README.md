@@ -17,6 +17,8 @@ Have generated Docker Image in code repository.
 
 			docker run -p 8002:80 tradetracker:symfony (or) docker run -p 8002:80 tradetracker:zendframework
 
+			Access - http://localhost:8002/
+			
 	a) <a href="https://github.com/Freniz/TradeTrackerProjects/blob/integration/DockerFile/symfony/Dockerfile">Dockerfile-Symfony</a>
 
 	b) <a href="https://github.com/Freniz/TradeTrackerProjects/blob/integration/DockerFile/zend/Dockerfile">Dockerfile-Zend</a>
@@ -26,6 +28,7 @@ Have generated Docker Image in code repository.
 		1) docker build -t tradetracker:{tag} . eg, docker build -t tradetracker:symfony .
 		2) docker run -p {port}:80 tradetracker:{tag} eg, docker run -p 8002:80 tradetracker:symfony
 
+		Access - http://localhost:8002/
 
 Here we can see two projects developed using Symfony and ZendFramework.
 
