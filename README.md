@@ -2,6 +2,8 @@
 
 Demo : http://ec2-34-252-59-205.eu-west-1.compute.amazonaws.com:8002/web/ - symfony
 
+Example link to use - http://pf.tradetracker.net/?aid=1&type=xml&encoding=utf-8&fid=251713&categoryType=2&additionalType=2&limit=10
+
 # Composer 
 
 https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
