@@ -1,5 +1,22 @@
 # TradeTracker.com Assessment work
 
+# Composer 
+
+https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
+
+Before run the symfony application please run the composer 
+
+cd TradeTrackerProjects/TradeTrackerSymfony
+
+sudo composer install
+
+&&
+
+cd TradeTrackerDockerProjects/TradeTrackerSymfony
+
+sudo composer install
+
+
 # Docker Projects
 
 <h1>Default Project - Symfony</h1>
