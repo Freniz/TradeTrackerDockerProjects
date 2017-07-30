@@ -8,13 +8,13 @@ https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
 
 Before run the symfony application please run the composer 
 
-cd TradeTrackerProjects/TradeTrackerSymfony
+cd TradeTrackerDockerProjects/TradeTrackerSymfony
 
 sudo composer install
 
 (or)
 
-cd TradeTrackerDockerProjects/TradeTrackerSymfony
+cd TradeTrackerProjects/TradeTrackerSymfony
 
 sudo composer install
 
