@@ -1,5 +1,7 @@
 # TradeTracker.com Assessment work
 
+Demo : http://ec2-34-252-59-205.eu-west-1.compute.amazonaws.com:8002/web/ - symfony
+
 # Composer 
 
 https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
